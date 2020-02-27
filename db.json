@@ -6,7 +6,7 @@
   { "id": 4, "animal": "Snake" }
   ],
   "Car_Mfr":[
-    { "id": 1, "Dodge"},
-    { "id": 1, "Honda"}
+    { "id": 1, "manufacturer": "Dodge"},
+    { "id": 1, "manufacturer": "Honda"}
     ]     
 }
