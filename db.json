@@ -1,6 +1,8 @@
 {
   "animals": [
   { "id": 1, "animal": "Tiger" },
-  { "id": 2, "animal": "Lion" }
+  { "id": 2, "animal": "Lion" },
+  { "id": 3, "animal": "Bear" },
+  { "id": 4, "animal": "Snake" }
   ]
 }
