@@ -3,12 +3,12 @@
   { "id": 1, "animal": "Tiger" },
   { "id": 2, "animal": "Lion" },
   { "id": 3, "animal": "Bear" },
-  { "id": 4, "animal": "Snake" }},
-  { "id": 3, "animal": "Falcon" },},
-  { "id": 3, "animal": "Beaver" },},
-  { "id": 3, "animal": "Monkey" },},
-  { "id": 3, "animal": "Dog" },},
-  { "id": 3, "animal": "Penguin" },
+  { "id": 4, "animal": "Snake" },
+  { "id": 3, "animal": "Falcon" },
+  { "id": 3, "animal": "Beaver" },
+  { "id": 3, "animal": "Monkey" },
+  { "id": 3, "animal": "Dog" },
+  { "id": 3, "animal": "Penguin" }
   ],
   "Car_Mfr":[
     { "id": 1, "manufacturer": "Dodge"},
