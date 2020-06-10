@@ -1,14 +1,14 @@
 {
   "animals": [
-  { "id": 1, "animal": "Tiger" },
-  { "id": 2, "animal": "Lion" },
-  { "id": 3, "animal": "Bear" },
-  { "id": 4, "animal": "Snake" },
-  { "id": 3, "animal": "Falcon" },
-  { "id": 3, "animal": "Beaver" },
-  { "id": 3, "animal": "Monkey" },
-  { "id": 3, "animal": "Dog" },
-  { "id": 3, "animal": "Penguin" }
+  { "id": 1, "name": "Tiger" },
+  { "id": 2, "name": "Lion" },
+  { "id": 3, "name": "Bear" },
+  { "id": 4, "name": "Snake" },
+  { "id": 5, "name": "Falcon" },
+  { "id": 6, "name": "Beaver" },
+  { "id": 7, "name": "Monkey" },
+  { "id": 8, "name": "Dog" },
+  { "id": 9, "name": "Penguin" }
   ],
   "Car_Mfr":[
     { "id": 1, "manufacturer": "Dodge"},
